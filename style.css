@@ -20,6 +20,14 @@ p {
 
 .image1 {
     border: 10px solid black;
+    width: 417px;
+    height: 738px;
+    border-radius: 10px;
+}
+
+
+.image2 {
+    border: 10px solid black;
     width: 300px;
     height: 200px;
     border-radius: 10px;
@@ -27,12 +35,6 @@ p {
 
 }
 
-.image2 {
-    border: 10px solid black;
-    width: 417px;
-    height: 738px;
-    border-radius: 10px;
-}
 
 a {
 font-size:x-large;
